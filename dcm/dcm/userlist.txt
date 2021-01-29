@@ -1,0 +1,4 @@
+Astro|1234|Vasily K
+Astros|1234|Vasily K
+v|1234|VaSD
+Astrohg|1234|Vasily
